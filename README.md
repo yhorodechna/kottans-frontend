@@ -7,7 +7,7 @@
 
 - [x] 0.Git Basics
 - [x] 1.Linux CLI and Networking
-- [ ] 2.VCS (hello gitty), GitHub and Collaboration
+- [ ] 2.Git Collaboration
 
 </details>
 
@@ -65,5 +65,17 @@ Before listening first and second weeks of curse [Introduction to Git and GitHub
 
 Actually earlier I used few of Linux commands, but [Linux Survival](https://linuxsurvival.com/linux-tutorial-introduction/) showed many useful commands in practice . I liked this tutorial.
 What about HTTP it was hard for me to understanding all theory about working HTTP. But earlier I learned some theory and apply in practice some methods like GET, POST, PUSH, DELETE.
+
+## 2.Git Collaboration
+
+<details>
+<summary>Task Git Collaboration</summary> 
+
+![screen-01](img/task_git_collaboration/RampingUpAndMovingWorkAround.png)
+![screen-02](img/task_git_collaboration/toOriginAndBeyong.png)
+
+</details>
+
+After listening third and fourth weeks of course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) I write down some useful commands witch I will use in the feature. But I have to notice that this time it wos difficult to pass all levels in the game [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US). So I will come back to it.
 
 ---
