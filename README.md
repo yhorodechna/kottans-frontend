@@ -7,7 +7,7 @@
 
 - [x] 0.Git Basics
 - [x] 1.Linux CLI and Networking
-- [ ] 2.Git Collaboration
+- [x] 2.Git Collaboration
 
 </details>
 
