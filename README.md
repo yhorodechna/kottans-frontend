@@ -37,8 +37,9 @@
 </details>
 
 ---
-
  ## General:
+ ---
+
  ## 0.Git Basics
 
 Before listening first and second weeks of curse [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) I listened another [course](https://m.youtube.com/watch?v=O00FTZDxD0o) from Bogdan Stashchuk . It is makes all easier. Also I used some GIT commands earlier in VS Code.
@@ -78,9 +79,9 @@ What about HTTP it was hard for me to understanding all theory about working HTT
 
 After listening third and fourth weeks of course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) I write down some useful commands witch I will use in the feature. But I have to notice that this time it wos difficult to pass all levels in the game [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US). So I will come back to it.
 
-
+---
 ## Front-End Basics
-
+---
 ## 3.Intro to HTML and CSS
 
 <details>
