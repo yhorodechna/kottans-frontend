@@ -15,7 +15,7 @@
 <details>
 <summary> Front-End Basics</summary> 
 
-- [ ] 3.Intro to HTML & CSS
+- [x] 3.Intro to HTML & CSS
 - [ ] 4.Responsive Web Design
 - [ ] 5.HTML & CSS Practice
 - [ ] 6.JavaScript Basics
@@ -77,5 +77,21 @@ What about HTTP it was hard for me to understanding all theory about working HTT
 </details>
 
 After listening third and fourth weeks of course [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github) I write down some useful commands witch I will use in the feature. But I have to notice that this time it wos difficult to pass all levels in the game [Learn Git Branching](https://learngitbranching.js.org/?locale=en_US). So I will come back to it.
+
+
+## Front-End Basics
+
+## 3.Intro to HTML and CSS
+
+<details>
+<summary>Task HTML and CSS intro</summary> 
+
+![screen-01](img/task_html_css_intro/task_html.png)
+![screen-02](img/task_html_css_intro/task_css.png)
+
+</details>
+
+I really liked course of HTML and CSS from [Codecademy](https://www.codecademy.com/learn). It is easy for beginners to understand how work HTML and CSS on practice.
+Actually some years ego I have a lot of practice with used HTML and CSS, for example I learned HTML code used design layout in this online [course](https://m.youtube.com/playlist?list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc).
 
 ---
