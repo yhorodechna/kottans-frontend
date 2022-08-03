@@ -16,7 +16,7 @@
 <summary> Front-End Basics</summary> 
 
 - [x] 3.Intro to HTML & CSS
-- [ ] 4.Responsive Web Design
+- [x] 4.Responsive Web Design
 - [ ] 5.HTML & CSS Practice
 - [ ] 6.JavaScript Basics
 - [ ] 7.Document Object Model 
@@ -94,5 +94,17 @@ After listening third and fourth weeks of course [Introduction to Git and GitHub
 
 I really liked course of HTML and CSS from [Codecademy](https://www.codecademy.com/learn). It is easy for beginners to understand how work HTML and CSS on practice.
 Actually some years ego I have a lot of practice with used HTML and CSS, for example I learned HTML code used design layout in this online [course](https://m.youtube.com/playlist?list=PLM6XATa8CAG4uCli-pMvuvwj46UaQoqIc).
+
+## 4.Responsive Web Design
+
+<details>
+<summary>Task Responsive Web Design</summary> 
+
+![screen-01](img/task_responsive_web_design/flexbox_froggy.png)
+![screen-02](img/task_responsive_web_design/grid_garden.png)
+
+</details>
+
+Corses of [Flexbox](https://m.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x) and [Grid](https://m.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) I passed two years ago. But it was useful for me to recall the various nuances. And the most useful it is [short description](https://m.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) from "Фрілансер по життю" about different topics, includes Flexbox and Grid. Also two years ago I passed games [Flexbox froggy](http://flexboxfroggy.com/) and [Grid garden](http://cssgridgarden.com/).
 
 ---
