@@ -17,8 +17,8 @@
 
 - [x] 3.Intro to HTML & CSS
 - [x] 4.Responsive Web Design
-- [ ] 5.HTML & CSS Practice
-- [ ] 6.JavaScript Basics
+- [x] 5.HTML & CSS Practice
+- [x] 6.JS Basics
 - [ ] 7.Document Object Model 
 
 </details>
@@ -106,5 +106,27 @@ Actually some years ego I have a lot of practice with used HTML and CSS, for exa
 </details>
 
 Corses of [Flexbox](https://m.youtube.com/playlist?list=PLM6XATa8CAG5mPV60dMmjMRrHVW4LmV2x) and [Grid](https://m.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) I passed two years ago. But it was useful for me to recall the various nuances. And the most useful it is [short description](https://m.youtube.com/watch?v=GV92IdMGFfA&list=PLM6XATa8CAG5pXQrW_kDaeZb_uIAMNZIm) from "Фрілансер по життю" about different topics, includes Flexbox and Grid. Also two years ago I passed games [Flexbox froggy](http://flexboxfroggy.com/) and [Grid garden](http://cssgridgarden.com/).
+
+## 5.HTML & CSS Practice
+
+[Demo](https://yhorodechna.github.io/html-css-popup/)
+
+It was an interesting experience with using tag input for popup. Also I saw my mistakes and understand how to correct them.
+
+## 6.JS Basics
+
+<details>
+<summary>Task JS Basics</summary> 
+
+![screen-01](img/task__js__basics/basic_javascript.png)
+![screen-02](img/task__js__basics/es6.png)
+![screen-03](img/task__js__basics/basic_data_structures.png)
+![screen-04](img/task__js__basics/basic_algorithm_scripting.png)
+![screen-05](img/task__js__basics/functional_programming.png)
+![screen-06](img/task__js__basics/intermediate_algorithm_scripting.png)
+
+</details>
+
+I used JS earlier. It was useful to to recall some methods of arrays and other topics. Also I write down some unknown to me thinks. I must note that it was very hard for me to dy all tasks from Intermediate Algorithm Scripting... Only at the time of this writing, I read that it was necessary to do only the first eleven tasks. So, it was hard but useful for me.
 
 ---
