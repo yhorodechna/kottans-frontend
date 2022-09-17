@@ -19,14 +19,14 @@
 - [x] 4.Responsive Web Design
 - [x] 5.HTML & CSS Practice
 - [x] 6.JS Basics
-- [ ] 7.Document Object Model 
+- [x] 7.Document Object Model 
 
 </details>
 
 <details>
 <summary> Advanced Topics</summary> 
 
-- [ ] 8.Building a Tiny JS World (pre-OOP)
+- [x] 8.Building a Tiny JS World (pre-OOP)
 - [ ] 9.Object oriented JS 
 - [ ] 10.OOP exercise 
 - [ ] 11.Offline Web Applications 
@@ -129,4 +129,26 @@ It was an interesting experience with using tag input for popup. Also I saw my m
 
 I used JS earlier. It was useful to to recall some methods of arrays and other topics. Also I write down some unknown to me thinks. I must note that it was very hard for me to dy all tasks from Intermediate Algorithm Scripting... Only at the time of this writing, I read that it was necessary to do only the first eleven tasks. So, it was hard but useful for me.
 
+## 7.Document Object Model 
+
+<details>
+<summary>Task JS DOM</summary> 
+
+![screen-01](img/task__js__dom/intermediate_algorithm_scripting.png)
+
+</details>
+
+[Demo](https://yhorodechna.github.io/side-menu-dom/) 
+
+It was useful to use addEventListener instead of adding events to all necessary tags. I will use this in the future.
+
 ---
+## Advanced Topics
+---
+
+## 8.Building a Tiny JS World
+
+[Demo](http://yhorodechna.github.io/a-tiny-JS-world/) 
+
+Nice preparation for OOP.
+
