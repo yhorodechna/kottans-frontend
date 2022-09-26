@@ -165,5 +165,5 @@ Nice preparation for OOP.
 
 I actually didn't really like the exercises in Codewars. Too many math exercises. In my opinion, the smaller half will be useful to me in the future.
 But actually it was useful for brain.
-Classic Frogger Game it is interesting OOP practice.
+For me Classic Frogger Game it was interesting OOP practice.
 
