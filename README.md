@@ -27,7 +27,7 @@
 <summary> Advanced Topics</summary> 
 
 - [x] 8.Building a Tiny JS World (pre-OOP)
-- [ ] 9.Object oriented JS 
+- [x] 9.Object oriented JS 
 - [ ] 10.OOP exercise 
 - [ ] 11.Offline Web Applications 
 - [ ] 12.Memory pair game 
@@ -151,4 +151,19 @@ It was useful to use addEventListener instead of adding events to all necessary 
 [Demo](http://yhorodechna.github.io/a-tiny-JS-world/) 
 
 Nice preparation for OOP.
+
+## 9.Object oriented JS 
+
+[Demo](https://yhorodechna.github.io/frogger-OOP/) 
+
+<details>
+<summary>Task JS OOP</summary> 
+
+![screen-01](img/task_js_oop/codewars.png)
+
+</details>
+
+I actually didn't really like the exercises in Codewars. Too many math exercises. In my opinion, the smaller half will be useful to me in the future.
+But actually it was useful for brain.
+Classic Frogger Game it is interesting OOP practice.
 
