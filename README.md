@@ -28,7 +28,7 @@
 
 - [x] 8.Building a Tiny JS World (pre-OOP)
 - [x] 9.Object oriented JS 
-- [ ] 10.OOP exercise 
+- [x] 10.OOP exercise 
 - [ ] 11.Offline Web Applications 
 - [ ] 12.Memory pair game 
 - [ ] 13.Website Performance Optimization 
@@ -166,4 +166,11 @@ Nice preparation for OOP.
 I actually didn't really like the exercises in Codewars. Too many math exercises. In my opinion, the smaller half will be useful to me in the future.
 But actually it was useful for brain.
 For me Classic Frogger Game it was interesting OOP practice.
+
+## 10.OOP exercise 
+
+[Demo](https://yhorodechna.github.io/a-tiny-JS-world/) 
+
+As soon as I started doing this task it seemed easy. But in practice, I saw that this is not true. OOP, it's a difficult topic for me...  
+I think it will become easier with practice. 
 
